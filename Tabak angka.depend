@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570958743 source:/media/ari/Data/Kuliah/Semester 5/Game Programming/Tabak angka/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
